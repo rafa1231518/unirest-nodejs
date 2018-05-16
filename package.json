@@ -1,5 +1,5 @@
 {
-  "name": "unirest",
+  "name": "uwx-unirest",
   "version": "0.5.1",
   "description": "Simplified, lightweight HTTP client library",
   "main": "index.js",
